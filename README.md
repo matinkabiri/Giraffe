@@ -56,4 +56,4 @@ For questions or contributions, please open an issue or contact the author.
 - Hamid Peiro
 - Mehdi Jabari
 - Matin Kabiri
-  ![image](https://github.com/user-attachments/assets/2ebfffde-73bd-4dd5-8cc8-4ddf9b566065)
+![image](https://github.com/user-attachments/assets/2ebfffde-73bd-4dd5-8cc8-4ddf9b566065)
